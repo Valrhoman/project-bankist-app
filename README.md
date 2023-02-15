@@ -5,7 +5,9 @@ Hi! This project was created as part of learning JavaScript Numbers, Dates, Intl
 To try the app, you may open it using this link:
 
 Login using the demo account:
+
 username: js
+
 password: 1111
 
 You can try actions such as:
